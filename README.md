@@ -6,7 +6,8 @@ Authors: Srushti Kamble, Riya Khatod, Shreyas Kumbar, Darshan Ghatge, Dr. Uday K
 Affiliation: School of Computer Science and Engineering, KLE Technological University, Hubballi, India  
 Published in: 3rd International Conference on Futuristic Technologies (INCOFT-2025), 21–22 February 2025  
 
-📄 [Read the full paper](Underwater_object_detection.pdf)
+[![Paper PDF](https://img.shields.io/badge/Paper-PDF-red)](Underwater_object_detection.pdf)
+
 
 ---
 
