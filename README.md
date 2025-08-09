@@ -1,8 +1,7 @@
 # Underwater Object Detection using YOLO11
 
-This repository contains the code implementation for our research paper:
+This repository contains the code implementation for our research paper:**"Underwater Object Detection using YOLO11 Architecture"**
 
-**"Underwater Object Detection using YOLO11 Architecture"**  
 Authors: Srushti Kamble, Riya Khatod, Shreyas Kumbar, Darshan Ghatge, Dr. Uday Kulkarni, Sneha Varur  
 Affiliation: School of Computer Science and Engineering, KLE Technological University, Hubballi, India  
 Published in: 3rd International Conference on Futuristic Technologies (INCOFT-2025), 21–22 February 2025  
